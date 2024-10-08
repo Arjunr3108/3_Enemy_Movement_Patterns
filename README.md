@@ -1,9 +1,9 @@
-Live Demo at "https://arjunr3108.github.io/3-Enemy-movement-patterns/".
+1. Live Demo at "https://arjunr3108.github.io/3-Enemy-movement-patterns/".
 
-This is a Demo of Enemy Movement Pattern.
+2. This is a demo of enemy movement patterns.
 
-It uses Multiple angles and positions to calculate movement.
+3. It uses multiple angles and positions to calculate movement.
 
-There are four different enemies in this, you just have to change the sciprt name in index.html to view them.
+4. There are four different enemies, each with a different movement pattern.
 
-This website was done with the help of the tutorial from freecodecamp youtube channel's "JavaScript Game Development Course for Beginners".
+5. The FreeCodeCamp YouTube channel's "JavaScript Game Development Course for Beginners" helped me create this website.
