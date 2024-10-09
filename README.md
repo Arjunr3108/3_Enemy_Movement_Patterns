@@ -1,4 +1,4 @@
-1. Live Demo at "https://arjunr3108.github.io/3-Enemy-movement-patterns/".
+1. Visit "https://arjunr3108.github.io/3-Enemy-movement-patterns" to view the live demo.
 
 2. This is a demo of enemy movement patterns.
 
